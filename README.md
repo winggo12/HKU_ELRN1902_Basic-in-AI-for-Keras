@@ -4,9 +4,11 @@
 
 1. Please Download the notes via this link:
 
-https://drive.google.com/file/d/1NjBKkugXRYDP8cTRaxP6x-po39gaUpQ8/view?usp=sharing
+https://connectpolyu-my.sharepoint.com/:p:/g/personal/20007633g_connect_polyu_hk/EZ7Mh3M7EmJDk57jIOa9q1ABpY_5xZtHsonn9AZuV67lWw?e=lvRHVF
 
 2. Follow the last chapter to install python and keras 
+
+https://connectpolyu-my.sharepoint.com/:p:/g/personal/20007633g_connect_polyu_hk/EeFnUNxEyCZMl6s0zkzLorgBglneC-sFsi7sUALnsktMUg?e=3Njsxb
 
 ##Content : 
 
